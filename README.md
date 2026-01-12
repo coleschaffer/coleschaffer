@@ -13,7 +13,9 @@
 ## Current Projects
 
 - 📊 **[Vault](https://github.com/coleschaffer/Vault)** - Shortform ad analysis tool - save, analyze, and learn from high-converting ads
+  
 - 🐦 **[NoMoreMarks](https://github.com/coleschaffer/NoMoreMarks)** - Chrome extension to automatically clear all your Twitter/X bookmarks
+  
 - 🔧 **[Visualizer](https://github.com/coleschaffer/Visualizer)** - Click any element on any website, describe what you want changed, and Claude Code makes it happen
 - 🎲 **[OpenCatan](https://github.com/coleschaffer/OpenCatan)** - Open source Catan game
 - 🌐 **[716MadeWebsite](https://github.com/coleschaffer/716MadeWebsite)** - Website for 716Made
