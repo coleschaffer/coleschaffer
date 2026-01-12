@@ -12,21 +12,19 @@
 
 ## Current Projects
 
-- 📊 **[Vault](https://github.com/coleschaffer/Vault)** - Shortform ad analysis tool - save, analyze, and learn from high-converting ads
-  
-- 🐦 **[NoMoreMarks](https://github.com/coleschaffer/NoMoreMarks)** - Chrome extension to automatically clear all your Twitter/X bookmarks
-  
-- 🔧 **[Visualizer](https://github.com/coleschaffer/Visualizer)** - Click any element on any website, describe what you want changed, and Claude Code makes it happen
-- 🎲 **[OpenCatan](https://github.com/coleschaffer/OpenCatan)** - Open source Catan game
-- 🌐 **[716MadeWebsite](https://github.com/coleschaffer/716MadeWebsite)** - Website for 716Made
-- 🔄 **[OdooConvert](https://github.com/coleschaffer/OdooConvert)** - CSV to Odoo Product Converter - Intelligent merging with conflict resolution
-- 🔗 **[NegLink](https://github.com/coleschaffer/NegLink)** - Competitor Review Scraper & LinkedIn Matcher - Scrapes Capterra reviews and enriches with LinkedIn profiles
-- 🏀 **[PropWise](https://github.com/coleschaffer/PropWise)** - Data-driven player prop investing with live NBA data
-- 🎄 **[ChristmasDesigner](https://github.com/coleschaffer/ChristmasDesigner)** - Christmas design tool
-- 🚶 **[StartWalkingWebsite](https://github.com/coleschaffer/StartWalkingWebsite)** - Website for start walking app
-- 💬 **[RedditAgg](https://github.com/coleschaffer/RedditAgg)** - Ask questions and get answers with sources from Reddit
-- 🏃 **[PoseDetect](https://github.com/coleschaffer/PoseDetect)** - Human pose detection for client
-- 📈 **[Gabagool](https://github.com/coleschaffer/Gabagool)** - Delta-neutral volatility arbitrage bot for Polymarket 15-minute BTC/ETH markets
+- 📊 **[Vault](https://github.com/coleschaffer/Vault)** - Personal advertising swipe file for collecting, organizing, and analyzing successful video ads with AI-powered breakdowns
+- 🐦 **[NoMoreMarks](https://github.com/coleschaffer/NoMoreMarks)** - Chrome extension that automatically bulk-deletes all your Twitter/X bookmarks with one click
+- 🔧 **[Visualizer](https://github.com/coleschaffer/Visualizer)** - Chrome extension that lets you click any element, describe what you want changed, and Claude Code makes it happen
+- 🎲 **[OpenCatan](https://github.com/coleschaffer/OpenCatan)** - Free, open-source web implementation of Settlers of Catan with real-time multiplayer
+- 🌐 **[716MadeWebsite](https://github.com/coleschaffer/716MadeWebsite)** - Marketing website for 716Made web development agency with interactive lead generation quiz
+- 🔄 **[OdooConvert](https://github.com/coleschaffer/OdooConvert)** - Web tool that converts and merges product data from Shopify, Cin7, and Zoho into Odoo-compatible CSV format
+- 🔗 **[NegLink](https://github.com/coleschaffer/NegLink)** - Lead generation tool that scrapes negative competitor reviews from Capterra and matches reviewers to LinkedIn profiles
+- 🏀 **[PropWise](https://github.com/coleschaffer/PropWise)** - NBA prop betting analysis tool using real-time stats and Kelly Criterion for optimal bet sizing
+- 🎄 **[ChristmasDesigner](https://github.com/coleschaffer/ChristmasDesigner)** - Interactive web tool for designing and visualizing Christmas light displays on house images
+- 🚶 **[StartWalkingWebsite](https://github.com/coleschaffer/StartWalkingWebsite)** - Marketing website for Start Walking iOS app - a phone addiction recovery tool that gamifies physical activity
+- 💬 **[RedditAgg](https://github.com/coleschaffer/RedditAgg)** - AI-powered Reddit aggregator that synthesizes answers from relevant discussions with source attribution
+- 🏃 **[PoseDetect](https://github.com/coleschaffer/PoseDetect)** - Privacy-first iOS app for generating skeleton pose overlays using on-device human pose detection
+- 📈 **[Gabagool](https://github.com/coleschaffer/Gabagool)** - Automated volatility arbitrage trading bot for Polymarket that executes delta-neutral trades
 
 ## GitHub Activity
 
