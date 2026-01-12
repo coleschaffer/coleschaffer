@@ -12,12 +12,19 @@
 
 ## Current Projects
 
-- 🔧 **[visualizer](https://github.com/coleschaffer/visualizer)** - Click any element on any website, describe what you want changed, and Claude Code makes it happen
-- 📈 **[gabagool](https://github.com/coleschaffer/smart-gabagool)** - Delta-neutral volatility arbitrage bot for Polymarket 15-minute BTC/ETH markets
-- 🐦 **[bookmark](https://github.com/coleschaffer/twitter-bookmark-clearer)** - Chrome extension to automatically clear all your Twitter/X bookmarks
-- 🎲 **[opencatan](https://github.com/coleschaffer/OpenCatan)** - Open source Catan game
-- 📊 **[odooconvert](https://github.com/coleschaffer/csv-to-odoo-converter)** - CSV to Odoo Product Converter with intelligent merging
-- ⏱️ **[timetrack](https://github.com/coleschaffer/timetrack)** - Clean and simple time tracker app for macOS
+- 📊 **[Vault](https://github.com/coleschaffer/Vault)** - Shortform ad analysis tool - save, analyze, and learn from high-converting ads
+- 🐦 **[NoMoreMarks](https://github.com/coleschaffer/NoMoreMarks)** - Chrome extension to automatically clear all your Twitter/X bookmarks
+- 🔧 **[Visualizer](https://github.com/coleschaffer/Visualizer)** - Click any element on any website, describe what you want changed, and Claude Code makes it happen
+- 🎲 **[OpenCatan](https://github.com/coleschaffer/OpenCatan)** - Open source Catan game
+- 🌐 **[716MadeWebsite](https://github.com/coleschaffer/716MadeWebsite)** - Website for 716Made
+- 🔄 **[OdooConvert](https://github.com/coleschaffer/OdooConvert)** - CSV to Odoo Product Converter - Intelligent merging with conflict resolution
+- 🔗 **[NegLink](https://github.com/coleschaffer/NegLink)** - Competitor Review Scraper & LinkedIn Matcher - Scrapes Capterra reviews and enriches with LinkedIn profiles
+- 🏀 **[PropWise](https://github.com/coleschaffer/PropWise)** - Data-driven player prop investing with live NBA data
+- 🎄 **[ChristmasDesigner](https://github.com/coleschaffer/ChristmasDesigner)** - Christmas design tool
+- 🚶 **[StartWalkingWebsite](https://github.com/coleschaffer/StartWalkingWebsite)** - Website for start walking app
+- 💬 **[RedditAgg](https://github.com/coleschaffer/RedditAgg)** - Ask questions and get answers with sources from Reddit
+- 🏃 **[PoseDetect](https://github.com/coleschaffer/PoseDetect)** - Human pose detection for client
+- 📈 **[Gabagool](https://github.com/coleschaffer/Gabagool)** - Delta-neutral volatility arbitrage bot for Polymarket 15-minute BTC/ETH markets
 
 ## GitHub Activity
 
