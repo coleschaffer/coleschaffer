@@ -10,8 +10,6 @@
 
 > Building tools, bots, and apps. From Chrome extensions to trading algorithms to full-stack web apps.
 
-🎨 **[716made.com](https://716made.com)** - Creative studio based in Buffalo, NY
-
 ## Current Projects
 
 - 🔧 **[visualizer](https://github.com/coleschaffer/visualizer)** - Click any element on any website, describe what you want changed, and Claude Code makes it happen
