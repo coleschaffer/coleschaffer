@@ -12,6 +12,7 @@
 
 ## Current Projects
 
+- 📖 **[DTVBook](https://github.com/coleschaffer/DTVBook)** - Web-based ebook reader for DTV by Michael Moritz
 - 📊 **[Vault](https://github.com/coleschaffer/Vault)** - Ad swipe file with AI-powered video analysis
 - 🐦 **[NoMoreMarks](https://github.com/coleschaffer/NoMoreMarks)** - Bulk-delete Twitter/X bookmarks
 - 🔧 **[Visualizer](https://github.com/coleschaffer/Visualizer)** - Click any element, describe changes, Claude Code executes
